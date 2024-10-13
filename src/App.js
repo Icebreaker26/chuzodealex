@@ -18,7 +18,7 @@ import './App.css';
 function App() {
 
   const productos = [
-    {id:2, Nombre:"CHUZOS", Precio:7000, foto:chuzo},
+    {id:2, Nombre:"CHUZOS DE CERDO", Precio:7000, foto:chuzo},
     {id:3, Nombre:"CHORIZOS", Precio:8000, foto:chorizo},
     {id:4, Nombre:"EMPANADAS",Precio:2000, foto:empanada},
     {id:5, Nombre:"AREPAS CARNE DESMECHADA", Precio:8000, foto:carne},

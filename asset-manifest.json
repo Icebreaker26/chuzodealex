@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chuzodealex/static/css/main.b3c81d13.css",
-    "main.js": "/chuzodealex/static/js/main.1676199b.js",
+    "main.js": "/chuzodealex/static/js/main.310cc424.js",
     "static/js/453.eb306f67.chunk.js": "/chuzodealex/static/js/453.eb306f67.chunk.js",
-    "static/media/2.png": "/chuzodealex/static/media/2.3df61c0ac1c3c7d00624.png",
-    "static/media/3.png": "/chuzodealex/static/media/3.2f3308fdfa817bb19f24.png",
-    "static/media/1.png": "/chuzodealex/static/media/1.0f127727c5c0023ef611.png",
-    "static/media/logo.png": "/chuzodealex/static/media/logo.9f39d40fb3cfe4419de3.png",
+    "static/media/3.png": "/chuzodealex/static/media/3.f71a1ab9b04fdccf3c33.png",
+    "static/media/2.png": "/chuzodealex/static/media/2.6d2f899851223068ee83.png",
+    "static/media/1.png": "/chuzodealex/static/media/1.1db67a3eacddc4295b8b.png",
     "static/media/fondo products.jpg": "/chuzodealex/static/media/fondo products.0521353c0f2d3acf7810.jpg",
+    "static/media/logo.png": "/chuzodealex/static/media/logo.18a8f522acfb26712f47.png",
     "static/media/chorizo.jpg": "/chuzodealex/static/media/chorizo.4bd93b8ed40314db5566.jpg",
     "static/media/carne.jpg": "/chuzodealex/static/media/carne.013a18ddafd9865e7cba.jpg",
     "static/media/chuzo.jpg": "/chuzodealex/static/media/chuzo.073693995909c1efaeb7.jpg",
@@ -15,11 +15,11 @@
     "static/media/pollo.jpg": "/chuzodealex/static/media/pollo.e29dbdbd0167432048f9.jpg",
     "index.html": "/chuzodealex/index.html",
     "main.b3c81d13.css.map": "/chuzodealex/static/css/main.b3c81d13.css.map",
-    "main.1676199b.js.map": "/chuzodealex/static/js/main.1676199b.js.map",
+    "main.310cc424.js.map": "/chuzodealex/static/js/main.310cc424.js.map",
     "453.eb306f67.chunk.js.map": "/chuzodealex/static/js/453.eb306f67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3c81d13.css",
-    "static/js/main.1676199b.js"
+    "static/js/main.310cc424.js"
   ]
 }

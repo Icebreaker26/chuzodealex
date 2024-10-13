@@ -1,3 +1,11 @@
+
+#logo{
+
+  width: 50vw;
+
+}
+
+@media only screen and (min-width: 768px) {
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +18,213 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#navbt{
+
+  margin-right: 10px;
+
+}
+
+#banner{
+
+  width: 100%; 
+  height: "100vh";
+  margin: "0";
+
+}
+
+
+#products{
+
+  background-image: url(./images/fondo\ products.jpg);
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin: auto;
+    text-align: center;
+}
+
+#products h1{
+  color:yellow;
+  font-size: 8vw;
+  font-family: "Londrina Sketch", sans-serif;
+
+}
+
+#producto{
+      background: #3b1202;
+      border-color: #955c28;
+      border-width: 15px;
+      box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+      backdrop-filter: blur( 7px );
+      -webkit-backdrop-filter: blur( 7px );
+      border-radius: 20px;
+
+      height: 85vh;
+
+      width: 30%;
+      display: inline-block;
+      margin: 2% 4% 2% 4%;
+      overflow: hidden; 
+      
+    
+}
+
+#producto h1{
+  color:white;
+  line-height: 40px;
+  text-align: center;
+  font-family: "Londrina Sketch", sans-serif;
+  font-size: 45px;
+}
+
+#producto h2{
+  color:yellow;
+  font-family: "Londrina Sketch", sans-serif;
+  font-size: 40px;
+}
+
+#visitame{
+
+  background-image: url(./images/fondo\ products.jpg);
+  text-align: center;
+  color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+
+
+}
+
+#visitame h1{
+
+  color: yellow;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 100px;
+
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+}
+
+#visitame h2{
+  color: yellow;
+  font-size: 60px;
+
+}
+}
+@media only screen and (max-width: 768px) {
+
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  #navbt{
+  
+    margin-right: 10px;
+  
+  }
+  
+  #banner{
+
+    width: 100vw; 
+    margin: "0";
+  
+  }
+  
+  #products{
+  
+    background-image: url(./images/fondo\ products.jpg);
+      width: 100%;
+      margin-top: 2%;
+      margin-bottom: 2%;
+      margin: auto;
+      text-align: center;
+  }
+  
+  #products h1{
+    color:yellow;
+    font-size: 8vw;
+    font-family: "Londrina Sketch", sans-serif;
+  
+  }
+  
+  #producto{
+        background: #3b1202;
+        border-color: #955c28;
+        border-width: 15px;
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 7px );
+        -webkit-backdrop-filter: blur( 7px );
+        border-radius: 20px;
+  
+        height: 85vh;
+  
+        width: 80%;
+        display: inline-block;
+        margin: 2% 4% 2% 4%;
+        overflow: hidden; 
+        
+      
+  }
+  
+  #producto h1{
+    color:white;
+    line-height: 40px;
+    text-align: center;
+    font-family: "Londrina Sketch", sans-serif;
+    font-size: 45px;
+  }
+  
+  #producto h2{
+    color:yellow;
+    font-family: "Londrina Sketch", sans-serif;
+    font-size: 40px;
+  }
+  
+  #visitame{
+  
+    background-image: url(./images/fondo\ products.jpg);
+    text-align: center;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+  
+  
+  }
+  
+  #visitame h1{
+  
+    color: yellow;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 50px;
+  
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+  }
+  
+  #visitame h2{
+    color: yellow;
+    font-size: 60px;
+  
+  }
+
+
+
+
+
 }
